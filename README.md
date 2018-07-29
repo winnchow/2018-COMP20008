@@ -1,1 +1,1 @@
-# 2018-COMP20008
+# 2018 COMP90008 Workshop 
