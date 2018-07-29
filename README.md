@@ -1,1 +1,2 @@
-# COMP20008 Elements of Data ProcessingSemester 2 2018 Workshop 
+# COMP20008 Elements of Data Processing
+## Semester 2 2018 Workshop 
